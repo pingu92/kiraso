@@ -1,0 +1,19 @@
+{
+
+"info" : {
+   "name" : "kiraso",
+   "version" : 3
+  },
+
+  "default_locale" : "en",
+  "client_init_script": "file(kiraso_client)",
+
+  "aliases" : {
+
+  },
+
+  "mixintos" : {
+    
+  }
+
+}
