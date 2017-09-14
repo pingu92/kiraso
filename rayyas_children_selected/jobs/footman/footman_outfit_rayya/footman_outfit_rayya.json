@@ -6,14 +6,26 @@
       "model_variants": {
          "default": {
             "layer": "clothing",
-            "transparent": false,
+            "transparent": true,
             "models": [
-               "file(footman_outfit_rayya.qb)"
+              {
+                "type" : "one_of",
+                "items" : [
+                  "file(footman_vest_v1_rayya.qb)"
+                ]
+              },
+              {
+                "type" : "one_of",
+                "items" : [
+                  "file(footman_sandal_v1_rayya.qb)",
+                  "file(footman_sandal_v2_rayya.qb)"
+                ]
+              }
             ]
          },
          "female": {
             "layer": "clothing",
-            "transparent": false,
+            "transparent": true,
             "models": [
                "file(footman_outfit_rayya_female.qb)"
             ]
