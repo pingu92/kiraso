@@ -10,7 +10,6 @@
 
   "aliases" : {
     "armor:cloth_padded_helmet_rayya": "file(entities/armor/cloth_padded_helmet_rayya/cloth_padded_helmet_rayya.json)",
-
     "footman:outfit_rayya": "file(jobs/footman/footman_outfit_rayya)"
   },
 

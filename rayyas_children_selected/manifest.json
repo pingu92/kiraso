@@ -6,10 +6,8 @@
 	},
 
 	"mixintos": {
-		"/stonehearth/jobs/footman/footman_description.json" : "file(jobs/footman/footman_description.json)"
-	},
+		"/stonehearth/jobs/footman/footman_description.json" : "file(jobs/footman/footman_description.json)",
 
-	"overrides": {
 		"/stonehearth/jobs/weaver/recipes/cloth_padded_helmet_recipe.json" : "file(jobs/weaver/recipes/cloth_padded_helmet_rayya_recipe.json)"
 	}
 }
