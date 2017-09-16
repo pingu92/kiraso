@@ -5,18 +5,6 @@
       "render_info": {},
       "model_variants": {
          "default": {
-           "layer": "hat",
-           "transparent": false,
-             "models": [
-             {
-               "type" : "one_of",
-               "items" : [
-                 "file(footman_hat_v1_rayya.qb)"
-               ]
-             }
-           ]
-         },
-         "default": {
             "layer": "clothing",
             "transparent": true,
             "models": [
@@ -53,13 +41,7 @@
          "female": {
             "layer": "clothing",
             "transparent": true,
-            "models": [
-              {
-                "type" : "one_of",
-                "items" : [
-                  "file(footman_hat_v1_rayya.qb)"
-                ]
-              },
+            "models": [ 
               {
                 "type" : "one_of",
                 "items" : [
