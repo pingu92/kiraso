@@ -1,0 +1,26 @@
+{
+   "type": "recipe",
+   "work_units": 3,
+   "recipe_name": "i18n(stonehearth:jobs.weaver.recipes.cloth_padded_helmet_recipe.recipe_name)",
+   "description": "i18n(stonehearth:jobs.weaver.recipes.cloth_padded_helmet_recipe.description)",
+   "flavor": "i18n(stonehearth:jobs.weaver.recipes.cloth_padded_helmet_recipe.flavor)",
+   "portrait": "/kiraso/entities/armor/cloth_padded_helmet_rayya/cloth_padded_helmet_rayya.png",
+   "workshop": "stonehearth:weaver:workbench",
+   "level_requirement": 1,
+   "manual_unlock": true,
+   "ingredients": [
+      {
+         "material": "cloth resource",
+         "count": 1
+      },
+      {
+         "material": "thread resource",
+         "count": 1
+      }
+   ],
+   "produces": [
+      {
+         "item": "stonehearth:armor:cloth_padded_helmet_rayya"
+      }
+   ]
+}

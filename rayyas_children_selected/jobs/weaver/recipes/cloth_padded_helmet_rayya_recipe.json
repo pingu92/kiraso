@@ -1,9 +1,3 @@
 {
-   "portrait": "/kiraso/entities/armor/cloth_padded_helmet_rayya/cloth_padded_helmet_rayya.png",
-   
-   "produces": [
-      {
-         "item": "kiraso:armor:cloth_padded_helmet_rayya"
-      }
-   ]
+	"manual_unlock": false
 }
