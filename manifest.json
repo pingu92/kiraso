@@ -14,7 +14,7 @@
   },
 
   "mixintos" : {
-    "/stonehearth/jobs/weaver/recipes/recipes.json" : "file(jobs/weaver/recipes/recipes.json)",
+    "/stonehearth/jobs/weaver/recipes/recipes.json" : "file(jobs/weaver/recipes/recipes.json)"
   }
 
 }
