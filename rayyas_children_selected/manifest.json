@@ -5,12 +5,9 @@
 		"version": 3
 	},
 
-"aliases": {
-	"armor:cloth_padded_helmet_rayya" : "file(entities/armor/cloth_padded_helmet_rayya)"
-},
-
 	"mixintos": {
-		"/stonehearth/jobs/footman/footman_description.json" : "file(jobs/footman/footman_description.json)"
+		"/stonehearth/jobs/footman/footman_description.json" : "file(jobs/footman/footman_description.json)",
+		"/stonehearth/jobs/weaver/recipes/recipes.json" : "file(jobs/weaver/recipes/recipes.json)"
 	},
 
 	"overrides": {}

@@ -9,7 +9,8 @@
   "client_init_script": "file(kiraso_client)",
 
   "aliases" : {
-    "footman:outfit_rayya": "file(rayyas_children_selected/jobs/footman/footman_outfit_rayya)"
+    "footman:outfit_rayya": "file(rayyas_children_selected/jobs/footman/footman_outfit_rayya)",
+    "armor:cloth_padded_helmet_rayya" : "file(entities/armor/cloth_padded_helmet_rayya)"
   },
 
   "mixintos" : {}
