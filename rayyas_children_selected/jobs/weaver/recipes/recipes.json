@@ -1,0 +1,16 @@
+{
+  "mixins": "/stonehearth/jobs/weaver/recipes/recipes.json",
+   "craftable_recipes": {
+
+      "clothing_armor": {
+         "recipes": {
+
+            "cloth_padded_helmet": {
+               "recipe": "file(cloth_padded_helmet_rayya_recipe.json)"
+            }
+
+         }
+      }
+      
+   }
+}
