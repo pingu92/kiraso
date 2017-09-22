@@ -1,0 +1,23 @@
+{
+
+	"jobs" : {
+		"weaver" : {
+			"recipes" : {
+				"cloth_padded_helmet_rayya" : {
+					"recipe_name" : "Cloth Helmet",
+		      "description" : "Protects against sun and enemies.",
+		      "flavor" : "The gold Items are really nice!"
+				}
+			}
+		}
+	},
+
+	"entities" : {
+		"armor" : {
+			"cloth_padded_helmet_rayya" : {
+				"display_name": "Cloth Helmet",
+        "description" : "Protects against sun and enemies."
+			}
+		}
+	}
+}
