@@ -45,8 +45,8 @@
          }
       },
       "stonehearth:catalog": {
-         "display_name": "i18n(stonehearth:entities.armor.cloth_padded_helmet.display_name)",
-         "description": "i18n(stonehearth:entities.armor.cloth_padded_helmet.description)",
+         "display_name": "i18n(kiraso:entities.armor.cloth_padded_helmet.display_name)",
+         "description": "i18n(kiraso:entities.armor.cloth_padded_helmet.description)",
          "icon": "file(cloth_padded_helmet_rayya.png)",
          "category": "armor",
          "material_tags": "cloth armor light_armor stockpile_equipment"
