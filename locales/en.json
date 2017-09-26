@@ -3,7 +3,7 @@
 	"jobs" : {
 		"weaver" : {
 			"recipes" : {
-				"cloth_padded_helmet_rayya" : {
+				"cloth_padded_helmet_rayya_recipe" : {
 					"recipe_name" : "Cloth Helmet",
 		      "description" : "Protects against sun and enemies.",
 		      "flavor" : "The gold Items are really nice!"
