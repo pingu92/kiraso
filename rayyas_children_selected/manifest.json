@@ -1,5 +1,5 @@
 {
    "aliases": {
-      "jobs:npc:footman": "file(/kiraso/rayyas_children_selected/jobs/footman/rc_footman_description.json)"
+      "jobs:footman": "file(/kiraso/rayyas_children_selected/jobs/footman/rc_footman_description.json)"
    }
 }
