@@ -12,7 +12,10 @@
   },
 
   "mixintos" : {
-    "/rayyas_children/manifest.json" : "file(/kiraso/rayyas_children_selected/manifest.json)",
+    "/rayyas_children/manifest.json" : "file(rayyas_children_selected/manifest.json)",
+
+    "/stonehearth/ui/game/create_camp/create_camp.less" : "file(ui/game/create_camp/create_camp.less)"
+
   }
 
 }
