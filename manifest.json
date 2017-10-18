@@ -6,13 +6,13 @@
   },
 
   "default_locale" : "en",
-  "client_init_script": "file(kiraso_client)",
 
   "aliases" : {
-    "footman:outfit_rayya": "file(rayyas_children_selected/jobs/footman/footman_outfit_rayya)",
-    "armor:cloth_padded_helmet_rayya" : "file(entities/armor/cloth_padded_helmet_rayya)"
+    "footman:outfit_rayya": "file(rayyas_children_selected/jobs/footman/footman_outfit_rayya)"
   },
 
-  "mixintos" : {}
+  "mixintos" : {
+    "/rayyas_children/manifest.json" : "file(/kiraso/rayyas_children_selected/manifest.json)",
+  }
 
 }

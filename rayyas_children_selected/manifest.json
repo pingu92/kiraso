@@ -1,14 +1,5 @@
 {
-	"info": {
-		"name": "rayyas_children_selected",
-		"deferred_load": true,
-		"version": 3
-	},
-
-	"mixintos": {
-		"/stonehearth/jobs/footman/footman_description.json" : "file(jobs/footman/footman_description.json)",
-		"/stonehearth/jobs/weaver/recipes/recipes.json" : "file(jobs/weaver/recipes/recipes.json)"
-	},
-
-	"overrides": {}
+   "aliases": {
+      "jobs:npc:footman": "file(jobs/footman/footman_description.json)"
+   }
 }
