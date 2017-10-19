@@ -8,14 +8,13 @@
   "default_locale" : "en",
 
   "aliases" : {
-    "footman:outfit_rayya": "file(rayyas_children_selected/jobs/footman/footman_outfit_rayya)"
+    "footman:outfit_rayya": "file(jobs/footman/footman_outfit_rayya)",
+
+    "jobs:footman": "file(jobs/footman/rc_worker_description.json)"
   },
 
   "mixintos" : {
-    "/rayyas_children/manifest.json" : "file(rayyas_children_selected/manifest.json)",
-
-    "/stonehearth/ui/game/create_camp/create_camp.less" : "file(ui/game/create_camp/create_camp.less)"
-
+    "/rayyas_children/jobs/index.json" : "file(jobs/index.json)"
   }
 
 }
