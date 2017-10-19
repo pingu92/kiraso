@@ -2,7 +2,7 @@
    "mixins": "stonehearth:jobs:index",
    "jobs" : {
      "stonehearth:jobs:footman": {
-        "description": "stonehearth:jobs:footman"
+        "description": "kiraso:jobs:footman"
      }
    }
 }

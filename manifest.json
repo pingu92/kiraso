@@ -8,9 +8,9 @@
   "default_locale" : "en",
 
   "aliases" : {
-    "footman:outfit_rayya": "file(jobs/footman/footman_outfit_rayya)",
+    "jobs:footman": "file(jobs/footman/rc_footman_description.json)",
 
-    "jobs:footman": "file(jobs/footman/rc_footman_description.json)"
+    "footman:outfit_rayya": "file(jobs/footman/footman_outfit_rayya)"
   },
 
   "mixintos" : {
