@@ -1,20 +1,15 @@
 {
-
 "info" : {
    "name" : "kiraso",
    "version" : 3
   },
-
   "default_locale" : "en",
-
   "aliases" : {
     "jobs:footman": "file(jobs/footman/rc_footman_description.json)",
 
     "footman:outfit_rayya": "file(jobs/footman/footman_outfit_rayya)"
   },
-
   "mixintos" : {
     "/rayyas_children/jobs/index.json" : "file(jobs/index.json)"
   }
-
 }
