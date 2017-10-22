@@ -4,7 +4,7 @@
 		"weaver" : {
 			"recipes" : {
 				"cloth_padded_helmet_rayya_recipe" : {
-					"recipe_name" : "Cloth Helmet",
+					"recipe_name" : "Cloth Nemes",
 		      "description" : "Protects against sun and enemies.",
 		      "flavor" : "The gold Items are really nice!"
 				}
@@ -15,7 +15,7 @@
 	"entities" : {
 		"armor" : {
 			"cloth_padded_helmet_rayya" : {
-				"display_name": "Cloth Helmet",
+				"display_name": "Cloth Nemes",
         "description" : "Protects against sun and enemies."
 			}
 		}
