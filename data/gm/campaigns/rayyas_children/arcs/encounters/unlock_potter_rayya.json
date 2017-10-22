@@ -1,0 +1,13 @@
+{
+   "type": "encounter",
+   "mod_root": "kiraso",
+   "encounter_type": "unlock_kingdom_recipe",
+   "in_edge":        "unlock_potter_rayya",
+   "out_edge": "",
+   "unlock_kingdom_recipe_info": {
+      "job": "stonehearth:jobs:potter",
+      "recipe_keys": [
+        "tools_weapons:clay_sword"
+	   ]
+   }
+}

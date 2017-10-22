@@ -5,6 +5,7 @@
    "out_edge": {
       "type": "trigger_many",
       "out_edges": [
+         "unlock_carpenter",
          "unlock_weaver"
       ]
    },

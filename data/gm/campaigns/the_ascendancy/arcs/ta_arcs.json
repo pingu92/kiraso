@@ -3,6 +3,7 @@
    "rarity": "common",
    "encounters": {
      "unlock_recipes":   "file(encounters/unlock_recipes.json)",
+     "unlock_carpenter": "file(encounters/unlock_carpenter.json)",
      "unlock_weaver": "file(encounters/unlock_weaver.json)"
    }
 }

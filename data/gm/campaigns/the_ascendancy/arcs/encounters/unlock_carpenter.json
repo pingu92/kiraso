@@ -1,0 +1,13 @@
+{
+   "type": "encounter",
+   "mod_root": "kiraso",
+   "encounter_type": "unlock_kingdom_recipe",
+   "in_edge":        "unlock_carpenter",
+   "out_edge": "",
+   "unlock_kingdom_recipe_info": {
+      "job": "stonehearth:jobs:carpenter",
+      "recipe_keys": [
+        "tools_weapons:wooden_sword"
+	   ]
+   }
+}

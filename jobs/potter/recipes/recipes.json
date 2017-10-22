@@ -1,0 +1,11 @@
+{
+   "craftable_recipes": {
+      "tools_weapons": {
+         "recipes": {
+            "clay_sword": {
+               "recipe": "file(clay_sword_recipe.json)"
+            }
+         }
+      }
+   }
+}

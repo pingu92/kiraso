@@ -1,0 +1,21 @@
+{
+   "type": "recipe",
+   "work_units": 20,
+   "recipe_name": "i18n(kiraso:jobs.potter.recipes.clay_sword_recipe.recipe_name)",
+   "description": "i18n(kiraso:jobs.potter.recipes.clay_sword_recipe.description)",
+   "portrait": "/stonehearth/entities/weapons/clay_sword/clay_sword.png",
+   "workshop": "stonehearth:potter:workbench",
+   "manual_unlock": true,
+   "level_requirement": 1,
+   "ingredients": [
+      {
+         "material": "clay resource",
+         "count": 2
+      }
+   ],
+   "produces": [
+      {
+         "item": "kiraso:footman:clay_sword_talisman"
+      }
+   ]
+}

@@ -1,6 +1,14 @@
 {
 
 	"jobs" : {
+		"potter" : {
+			"recipes" : {
+				"clay_sword_recipe" : {
+					"recipe_name" : "Clay Chepesch",
+		      "description" : "Thacks thine enemies with clay might"
+				}
+			}
+		},
 		"weaver" : {
 			"recipes" : {
 				"cloth_padded_helmet_rayya_recipe" : {
@@ -17,6 +25,14 @@
 			"cloth_padded_helmet_rayya" : {
 				"display_name": "Cloth Nemes",
         "description" : "Protects against sun and enemies."
+			}
+		},
+		"weapons" : {
+			"clay_sword" : {
+				"clay_sword_talisman" : {
+				"display_name": "Clay Chepesch",
+        "description" : "Basic clay sword."
+				}
 			}
 		}
 	}
