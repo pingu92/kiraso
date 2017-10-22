@@ -2,7 +2,7 @@
    "type": "encounter",
    "mod_root": "homesweethome",
    "encounter_type": "unlock_kingdom_recipe",
-   "in_edge":        "unlock_weaverh_rayya",
+   "in_edge":        "unlock_weaver_rayya",
    "out_edge": "",
    "unlock_kingdom_recipe_info": {
       "job": "stonehearth:jobs:weaver",
