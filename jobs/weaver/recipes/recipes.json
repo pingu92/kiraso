@@ -4,7 +4,7 @@
       "clothing_armor": {
          "recipes": {
 
-            "cloth_padded_helmet": {
+            "cloth_padded_helmet_rayya": {
                "recipe": "file(cloth_padded_helmet_rayya_recipe.json)"
             }
 

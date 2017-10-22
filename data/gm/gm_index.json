@@ -1,0 +1,11 @@
+{
+   "type": "index",
+   "campaigns": {
+      "rayyas_children_recipes": {
+         "rc_recipes_campaign": "file(campaigns/rayyas_children/rc_recipes_campaign.json)"
+      },
+	  "the_ascendancy_recipes": {
+         "ta_recipes_campaign": "file(campaigns/the_ascendancy/ta_recipes_campaign.json)"
+      }
+   }
+}

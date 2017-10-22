@@ -3,13 +3,25 @@
    "name" : "kiraso",
    "version" : 3
   },
+
   "default_locale" : "en",
+
   "aliases" : {
     "jobs:footman": "file(jobs/footman/rc_footman_description.json)",
 
-    "footman:outfit_rayya": "file(jobs/footman/footman_outfit_rayya)"
+    "armor:cloth_padded_helmet_rayya": "file(entities/armor/cloth_padded_helmet_rayya/cloth_padded_helmet_rayya.json)",
+
+    "footman:outfit_rayya": "file(jobs/footman/footman_outfit_rayya)",
+
+    "data:gm_index": "file(data/gm/gm_index.json)"
   },
   "mixintos" : {
-    "/rayyas_children/jobs/index.json" : "file(jobs/index.json)"
+    "stonehearth:data:gm_index": "homesweethome:data:gm_index",
+
+    "/rayyas_children/jobs/index.json" : "file(jobs/index.json)",
+    "/stonehearth/jobs/weaver/recipes/cloth_padded_helmet_recipe.json" : "file(jobs/adding_manual_unlock.json)"
+  },
+  "controllers" : {
+     "game_master:encounters:unlock_kingdom_recipe": "file(services/server/game_master/controllers/encounters/unlock_kingdom_recipe_encounter.lua)"
   }
 }
