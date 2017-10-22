@@ -27,7 +27,9 @@
               {
                 "type" : "one_of",
                 "items" : [
-                  "file(footman_legs_v1_rayya.qb)"
+                  "file(footman_legs_v1_rayya.qb)",
+                  "file(footman_legs_v2_rayya.qb)",
+                  "file(footman_legs_v3_rayya.qb)"
                 ]
               },
               {
@@ -63,7 +65,8 @@
               {
                 "type" : "one_of",
                 "items" : [
-                  "file(footman_legs_v1_rayya_female.qb)"
+                  "file(footman_legs_v1_rayya_female.qb)",
+                  "file(footman_legs_v2_rayya_female.qb)"
                 ]
               },
               {
