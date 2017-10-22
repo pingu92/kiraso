@@ -1,6 +1,6 @@
 {
    "type": "encounter",
-   "mod_root": "homesweethome",
+   "mod_root": "kiraso",
    "encounter_type": "unlock_kingdom_recipe",
    "in_edge":        "unlock_weaver_rayya",
    "out_edge": "",

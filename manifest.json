@@ -16,9 +16,11 @@
     "data:gm_index": "file(data/gm/gm_index.json)"
   },
   "mixintos" : {
-    "stonehearth:data:gm_index": "homesweethome:data:gm_index",
+    "stonehearth:data:gm_index": "kiraso:data:gm_index",
 
     "/rayyas_children/jobs/index.json" : "file(jobs/index.json)",
+    "/stonehearth/jobs/weaver/recipes/recipes.json" : "file(jobs/weaver/recipes/recipes.json)",
+
     "/stonehearth/jobs/weaver/recipes/cloth_padded_helmet_recipe.json" : "file(jobs/adding_manual_unlock.json)"
   },
   "controllers" : {
