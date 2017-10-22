@@ -13,13 +13,15 @@
                 "items" : [
                   "file(footman_vest_v1_rayya.qb)",
                   "file(footman_vest_v2_rayya.qb)",
-                  "file(footman_vest_v3_rayya.qb)"
+                  "file(footman_vest_v3_rayya.qb)",
+                  "file(footman_vest_v4_rayya.qb)"
                 ]
               },
               {
                 "type" : "one_of",
                 "items" : [
-                  "file(footman_arms_v1_rayya.qb)"
+                  "file(footman_arms_v1_rayya.qb)",
+                  "file(footman_arms_v2_rayya.qb)"
                 ]
               },
               {
@@ -41,11 +43,35 @@
          "female": {
             "layer": "clothing",
             "transparent": true,
-            "models": [ 
+            "models": [
               {
                 "type" : "one_of",
                 "items" : [
-                  "file(footman_outfit_rayya_female.qb)"
+                  "file(footman_vest_v1_rayya_female.qb)",
+                  "file(footman_vest_v2_rayya_female.qb)",
+                  "file(footman_vest_v3_rayya_female.qb)"
+                ]
+              },
+              {
+                "type" : "one_of",
+                "items" : [
+                  "file(footman_arms_v1_rayya_female.qb)",
+                  "file(footman_arms_v2_rayya_female.qb)",
+                  "file(footman_arms_v3_rayya_female.qb)"
+                ]
+              },
+              {
+                "type" : "one_of",
+                "items" : [
+                  "file(footman_legs_v1_rayya_female.qb)"
+                ]
+              },
+              {
+                "type" : "one_of",
+                "items" : [
+                  "file(footman_sandal_v1_rayya_female.qb)",
+                  "file(footman_sandal_v2_rayya_female.qb)",
+                  "file(footman_sandal_v3_rayya_female.qb)"
                 ]
               }
             ]
