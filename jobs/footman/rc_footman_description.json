@@ -1,5 +1,6 @@
 {
   "mixins": "stonehearth:jobs:footman",
+  "talisman_uri": "kiraso:footman:clay_sword_talisman",
    "equipment": {
       "torso": "file(footman_outfit_rayya)"
    }
