@@ -3,7 +3,7 @@
    "work_units": 20,
    "recipe_name": "i18n(kiraso:jobs.potter.recipes.clay_sword_recipe.recipe_name)",
    "description": "i18n(kiraso:jobs.potter.recipes.clay_sword_recipe.description)",
-   "portrait": "/stonehearth/entities/weapons/clay_sword/clay_sword.png",
+   "portrait": "/kiraso/entities/weapons/clay_sword/clay_sword.png",
    "workshop": "stonehearth:potter:workbench",
    "manual_unlock": true,
    "level_requirement": 1,

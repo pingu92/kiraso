@@ -10,8 +10,9 @@
     "jobs:footman" : "file(jobs/footman/rc_footman_description.json)",
 
     "armor:cloth_padded_helmet_rayya" : "file(entities/armor/cloth_padded_helmet_rayya/cloth_padded_helmet_rayya.json)",
+    "weapons:clay_sword_rayya": "file(entities/weapons/clay_sword)",
 
-    "footman:clay_sword_talisman" : "file(entities/weapons/clay_sword)",
+    "footman:clay_sword_talisman" : "file(entities/weapons/clay_sword/clay_sword_talisman.json)",
     "footman:outfit_rayya" : "file(jobs/footman/footman_outfit_rayya)",
 
     "data:gm_index" : "file(data/gm/gm_index.json)"

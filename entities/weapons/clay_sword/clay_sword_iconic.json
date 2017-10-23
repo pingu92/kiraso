@@ -12,8 +12,8 @@
    },
    "entity_data": {
       "stonehearth:catalog": {
-         "display_name": "i18n(stonehearth:entities.weapons.clay_sword.clay_sword_iconic.display_name)",
-         "description": "i18n(stonehearth:entities.weapons.clay_sword.clay_sword_iconic.description)",
+         "display_name": "i18n(kiraso:entities.weapons.clay_sword.clay_sword_iconic.display_name)",
+         "description": "i18n(kiraso:entities.weapons.clay_sword.clay_sword_iconic.description)",
          "icon": "file(clay_sword.png)",
          "is_item": true,
          "category": "weapons",

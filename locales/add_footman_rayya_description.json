@@ -1,0 +1,10 @@
+{
+  "mixins": "rayyas_children:locales",
+  "jobs": {
+    "footman": {
+       "footman_description": {
+          "requirements": "Sword crafted by the potter."
+       }
+    }
+  }
+}
