@@ -1,6 +1,10 @@
 {
-
 	"jobs" : {
+		"footman" : {
+			"footman_description": {
+				 "requirements": "Sword crafted by the potter."
+			}
+		},
 		"potter" : {
 			"recipes" : {
 				"clay_sword_recipe" : {
