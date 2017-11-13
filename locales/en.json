@@ -2,13 +2,13 @@
 	"jobs" : {
 		"footman" : {
 			"footman_description": {
-				 "requirements": "Sword crafted by the potter."
+				 "requirements": "Khepesch crafted by the potter."
 			}
 		},
 		"potter" : {
 			"recipes" : {
 				"clay_sword_recipe" : {
-					"recipe_name" : "Clay Chepesch",
+					"recipe_name" : "Clay Khepesch",
 		      "description" : "Thacks thine enemies with clay might"
 				}
 			}
@@ -34,7 +34,7 @@
 		"weapons" : {
 			"clay_sword" : {
 				"clay_sword_talisman" : {
-				"display_name": "Clay Chepesch",
+				"display_name": "Clay Khepesch",
         "description" : "Basic clay sword."
 				}
 			}
