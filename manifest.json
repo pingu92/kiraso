@@ -10,6 +10,7 @@
     "jobs:footman" : "file(jobs/footman/rc_footman_description.json)",
 
     "armor:cloth_padded_helmet_rayya" : "file(entities/armor/cloth_padded_helmet_rayya/cloth_padded_helmet_rayya.json)",
+    "armor:leather_helmet_rayya" : "file(entities/armor/leather_helmet_rayya/leather_helmet_rayya.json)",
     "weapons:clay_sword_rayya": "file(entities/weapons/clay_sword)",
 
     "footman:clay_sword_talisman" : "file(entities/weapons/clay_sword/clay_sword_talisman.json)",
@@ -25,7 +26,8 @@
     "/stonehearth/jobs/weaver/recipes/recipes.json" : "file(jobs/weaver/recipes/recipes.json)",
 
     "/stonehearth/jobs/carpenter/recipes/wooden_sword_recipe.json" : "file(jobs/adding_manual_unlock.json)",
-    "/stonehearth/jobs/weaver/recipes/cloth_padded_helmet_recipe.json" : "file(jobs/adding_manual_unlock.json)"
+    "/stonehearth/jobs/weaver/recipes/cloth_padded_helmet_recipe.json" : "file(jobs/adding_manual_unlock.json)",
+    "/stonehearth/jobs/weaver/recipes/leather_helmet_recipe.json" : "file(jobs/adding_manual_unlock.json)"
   },
   "controllers" : {
      "game_master:encounters:unlock_kingdom_recipe": "file(services/server/game_master/controllers/encounters/unlock_kingdom_recipe_encounter.lua)"
