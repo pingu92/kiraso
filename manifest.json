@@ -24,8 +24,8 @@
     "/stonehearth/jobs/potter/recipes/recipes.json" : "file(jobs/potter/recipes/recipes.json)",
     "/stonehearth/jobs/weaver/recipes/recipes.json" : "file(jobs/weaver/recipes/recipes.json)",
 
-    "/stonehearth/jobs/weaver/recipes/cloth_padded_helmet_recipe.json" : "file(jobs/adding_manual_unlock.json)",
-    "/stonehearth/jobs/carpenter/recipes/wooden_sword_recipe.json" : "file(jobs/adding_manual_unlock.json)"
+    "/stonehearth/jobs/carpenter/recipes/wooden_sword_recipe.json" : "file(jobs/adding_manual_unlock.json)",
+    "/stonehearth/jobs/weaver/recipes/cloth_padded_helmet_recipe.json" : "file(jobs/adding_manual_unlock.json)"
   },
   "controllers" : {
      "game_master:encounters:unlock_kingdom_recipe": "file(services/server/game_master/controllers/encounters/unlock_kingdom_recipe_encounter.lua)"
