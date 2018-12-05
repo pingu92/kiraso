@@ -9,6 +9,7 @@
   "aliases" : {
     "jobs:footman" : "file(jobs/footman/rc_footman_description.json)",
 
+    "armor:clothing_test" : "file(entities/armor/clothing_test/clothing_test.json)",
     "armor:cloth_padded_helmet_rayya" : "file(entities/armor/cloth_padded_helmet_rayya/cloth_padded_helmet_rayya.json)",
     "armor:leather_helmet_rayya" : "file(entities/armor/leather_helmet_rayya/leather_helmet_rayya.json)",
     "weapons:clay_sword_rayya": "file(entities/weapons/clay_sword)",
