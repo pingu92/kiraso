@@ -1,6 +1,5 @@
 {
    "type": "recipe",
-   "effort": 45,
    "work_units": 3,
    "recipe_name": "i18n(kiraso:jobs.weaver.recipes.cloth_padded_helmet_rayya_recipe.recipe_name)",
    "description": "i18n(kiraso:jobs.weaver.recipes.cloth_padded_helmet_rayya_recipe.description)",
