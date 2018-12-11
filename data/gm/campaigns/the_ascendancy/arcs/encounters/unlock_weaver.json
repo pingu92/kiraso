@@ -7,7 +7,8 @@
    "unlock_kingdom_recipe_info": {
       "job": "stonehearth:jobs:weaver",
       "recipe_keys": [
-        "clothing_armor:cloth_padded_helmet"
+        "clothing_armor:cloth_padded_helmet",
+        "clothing_armor:leather_helmet"
 	   ]
    }
 }
