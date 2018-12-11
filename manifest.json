@@ -1,7 +1,9 @@
 {
 "info" : {
-   "name" : "kiraso",
-   "version" : 3
+    "name" : "Kiraso",
+    "namespace" : "kiraso",
+    "version" : 3,
+    "steam_file_id" : "1588515792"
   },
 
   "default_locale" : "en",
