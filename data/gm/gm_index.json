@@ -4,7 +4,7 @@
       "rc_kiraso_recipes": {
          "rc_recipes_campaign": "file(campaigns/rayyas_children/rc_recipes_campaign.json)"
       },
-	  "ta_kiraso_recipes": {
+  	  "ta_kiraso_recipes": {
          "ta_recipes_campaign": "file(campaigns/the_ascendancy/ta_recipes_campaign.json)"
       }
    }
